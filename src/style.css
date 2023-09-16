@@ -65,7 +65,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: x-large;
+    font-size: larger;
 }
 
 .error{
@@ -76,6 +76,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: x-large;
+    font-size: larger;
 
 }
