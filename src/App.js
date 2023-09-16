@@ -154,8 +154,8 @@ const App = () => {
       </button>
       </div>
 
-      {error && <p className="error">{error}</p>}
-      {result && <p className="success">{result}</p>}
+      {error && <p className="error">Error!<span>{error}</span></p>}
+      {result && <p className="success">Success!<span>{result}</span></p>}
     </div>
   );
 };
